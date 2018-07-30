@@ -1,0 +1,6 @@
+name: Test
+main: com.deeznuts.test.Tutorial
+version: 0.1
+commands:
+  message:
+    description: main command for test
